@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textes Réglementaires</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Lien vers le fichier CSS -->
+</head>
+<body>
+    <h1>Textes Réglementaires</h1>
+    <label for="category">Sélectionnez une catégorie :</label>
+    <select id="category" onchange="showLinks()">
+        <option value="">Choisir...</option>
+        <option value="bouteilleGaz">Bouteille Gaz</option>
+        <option value="gpl">GPL</option>
+        <option value="vapeur">Vapeur</option>
+        <option value="gaz">Gaz</option>
+        <option value="extincteurs">Extincteurs</option>
+        <option value="circulaire">Circulaire</option>
+        <option value="grandsProduitsPetroliers">Grands Produits Pétroliers</option>
+        <option value="levage">Levage</option>
+        <option value="securiteIncendie">Sécurité Incendie</option>
+        <option value="installationsElectriques">Installations Electriques</option>
+        <option value="ascenseurs">Ascenseurs</option>
+        <option value="appareilsMachines">Appareils et Machines</option>
+    </select>
+    
+    <div id="links"></div>
+
+    <script src="script.js"></script> <!-- Lien vers le fichier JavaScript -->
+</body>
+</html>

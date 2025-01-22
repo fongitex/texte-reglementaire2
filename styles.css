@@ -1,0 +1,50 @@
+﻿/* Mise en forme globale */
+body {
+    background-color: #FFEB3B; /* Jaune clair, utilisez un code hexadécimal pour éviter les erreurs */
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Autres styles inchangés */
+h1 {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 20px;
+    color: #333;
+}
+
+/* Style pour les menus déroulants */
+select {
+    margin: 20px auto;
+    padding: 10px;
+    display: block;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 400px;
+}
+
+/* Style pour les liens */
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    margin: 5px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style du pied de page */
+#footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #333;
+}
