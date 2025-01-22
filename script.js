@@ -33,28 +33,8 @@
         { title: "AEO-Recueil Juridique 2011", url: "https://www.mem.gov.ma/Lists/Lst_Textes_Reglementaires/Attachments/201/AEO-RecueilJuridique20112" }
     ],
     levage: [
-        { title: "Arrêté 09 Septembre 1953", url: "http://www.sgg.gov.ma/BO/bo_fr/1953/bo_2142_fr.pdf" },
-        { title: "Arrêté Viziriel du 9 septembre 1953", url: "https://www.integritasmaroc.com/downloads/Reglementations/03.Appa.Levage/AL01-%20Arrete%20viziriel%20du%209%20septembre%201953.pdf" },
-        { title: "Arrêté du 3 novembre 1953", url: "https://www.integritasmaroc.com/downloads/Reglementations/03.Appa.Levage/AL02-%20Arrete%20du%203%20novembre%201953.pdf" },
-        { title: "Arrêté n1287-18 du 15 mars 2018", url: "https://www.integritasmaroc.com/downloads/Reglementations/03.Appa.Levage/AL03-Arrête%20n1287-18%20du%2015%20mars%202018.pdf" }
+        { title: "Arrêté 09 Septembre 1953", url: "http://www.sgg.gov.ma/BO/bo_fr/1953/bo_2142_fr.pdf" },  
     ],
-    securiteIncendie: [
-        { title: "Normes sécurité incendie", url: "https://www.integritasmaroc.com/downloads/Reglementations/04.%20securite%20incendie/SE01-Normes%20securite%20incendie.pdf" }
-    ],
-    installationsElectriques: [
-        { title: "Conformité des installations électriques", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20installations%20electriques/IE01-Conformité%20installations%20électriques.pdf" },
-        { title: "Contrôle des installations électriques", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20installations%20electriques/IE02-Controle%20installations%20électriques.pdf" },
-        { title: "Normes de sécurité pour installations électriques", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20installations%20electriques/IE03-Normes%20de%20sécurité%20installations%20électriques.pdf" }
-    ],
-    ascenseurs: [
-        { title: "Article n° 80-81 Ascenseurs", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20ascenseurs/ASC01-Article80-81%20Ascenseurs.pdf" },
-        { title: "Contrôle d'ascenseurs", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20ascenseurs/ASC02-Controle%20ascenseur.pdf" },
-        { title: "Normes de sécurité des ascenseurs", url: "https://www.integritasmaroc.com/downloads/Reglementations/05.%20ascenseurs/ASC03-Normes%20de%20sécurité%20ascenseurs.pdf" }
-    ],
-    appareilsMachines: [
-        { title: "Appareils", url: "https://www.integritasmaroc.com/downloads/Reglementations/06.%20Appareils%20machines/APM01-Appareils%20Machines%20normes.pdf" },
-        { title: "Machines industrielles", url: "https://www.integritasmaroc.com/downloads/Reglementations/06.%20Appareils%20machines/APM02-Machines%20industrielles%20normes.pdf" }
-    ]
 };
 
 function showLinks() {
